@@ -1,0 +1,7 @@
+G:\Dropbox\Programming\IMG2ASCII\obj\x86\Release\IMG2ASCII.csprojResolveAssemblyReference.cache
+G:\Dropbox\Programming\IMG2ASCII\bin\Release\ConsoleApplication.exe
+G:\Dropbox\Programming\IMG2ASCII\bin\Release\ConsoleApplication.pdb
+G:\Dropbox\Programming\IMG2ASCII\obj\x86\Release\ConsoleApplication.exe
+G:\Dropbox\Programming\IMG2ASCII\obj\x86\Release\ConsoleApplication.pdb
+C:\Users\John\Dropbox\Programming\IMG2ASCII\obj\x86\Release\ConsoleApplication.exe
+C:\Users\John\Dropbox\Programming\IMG2ASCII\obj\x86\Release\ConsoleApplication.pdb
